@@ -1,6 +1,6 @@
 ## Olá pessoal! 👋
 
-Me chammo Isabela Souto, sou de Recife/PE - Brasil, atualmente sou estudante de Desenvolvimento Web na Trybe e Licenciatura em Computação na UFRPE.
+Me chamo Isabela Souto, sou de Recife/PE - Brasil, atualmente sou estudante de Desenvolvimento Web na Trybe e Licenciatura em Computação na UFRPE.
 
 <!--
 **IsabelaSouto/IsabelaSouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 Meus interesses pessoais:
 
-* 👩🏻‍💻 No momento eu estou estudando AI Generativa
+* 👩🏻‍💻 No momento eu estou estudando IA Generativa
 * 🏋️‍♀️ Adoro fazer atividade fisica, andar de bicicleta, correr e atualmente estou apredendendo a andar de patins
-* 🎮 Estou viciada em jogar Rummikub e Ludo
+* 🎮 Estou viciada em jogar Rummikub e Ludo nas horas vagas
 
 ## Linguagens e ferramentas:
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
