@@ -2,6 +2,8 @@
 
 Me chamo Isabela Souto, sou de Recife/PE - Brasil, atualmente sou estudante de Desenvolvimento Web na Trybe e Licenciatura em Computação na UFRPE.
 
+Sou apaixonada por tecnologia, adoro aprender coisas novas e estou em transição de carreira após minha formação em Biologia. Estou em busca da minha primeira oportunidade profissional como desenvolvedora júnior!
+
 <!--
 **IsabelaSouto/IsabelaSouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,24 +19,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Meus interesses pessoais:
+---
 
-* 👩🏻‍💻 No momento eu estou estudando IA Generativa
-* 🏋️‍♀️ Adoro fazer atividade fisica, andar de bicicleta, correr e atualmente estou apredendendo a andar de patins
-* 🎮 Estou viciada em jogar Rummikub e Ludo nas horas vagas
+## 🎯 Atualmente estudando
 
-## Linguagens e ferramentas:
-![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Node Badge](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Mysql Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- 🤖 Inteligência Artificial Generativa
+- 🧪 Testes de software
+
+---
+
+## 💡 Interesses pessoais
+
+🏋️‍♀️ Amo fazer atividade física, andar de bicicleta e correr  
+🛼 Estou aprendendo a andar de patins!  
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ##
 
@@ -45,7 +58,11 @@ Meus interesses pessoais:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-## Onde me encontrar :blush:
+## 📫 Onde me encontrar
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabelasmaior/)](https://www.linkedin.com/in/isabelasmaior/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=isabelasmbelem@gmail.com)](isabelasmbelem@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+---
+
+✨ Obrigada por visitar meu perfil!
