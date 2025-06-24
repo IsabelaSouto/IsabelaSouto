@@ -1,6 +1,6 @@
-## Olá pessoal! 👋
+## Olá! 👋
 
-Me chamo Isabela Souto, sou de Recife/PE - Brasil, atualmente sou estudante de Desenvolvimento Web na Trybe e Licenciatura em Computação na UFRPE.
+Me chamo Isabela Souto, sou desenvolvedora back end júnior, tenho +1 ano de experiência prática com desenvolvimento de software, formada no curso técnico em Desenvolvimento Web e atualmente sou estudante no 6º período de Licenciatura em Computação pela UFRPE.
 
 Sou apaixonada por tecnologia, adoro aprender coisas novas e estou em transição de carreira após minha formação em Biologia. Estou em busca da minha primeira oportunidade profissional como desenvolvedora júnior!
 
@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 
 ## 🎯 Atualmente estudando
 
-- 🤖 Inteligência Artificial Generativa
-- 🧪 Testes de software
+- ☁️ Cloud computing com AWS
 
 ---
 
@@ -37,6 +36,9 @@ Here are some ideas to get you started:
 
 ## 🚀 Tecnologias e Ferramentas
 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
@@ -48,15 +50,6 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-##
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=IsabelaSouto&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
-</a>
 
 ## 📫 Onde me encontrar
 
