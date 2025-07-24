@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Me chamo Isabela Souto, sou desenvolvedora back end júnior, tenho +1 ano de experiência prática com desenvolvimento de software, formada no curso técnico em Desenvolvimento Web e atualmente sou estudante no 6º período de Licenciatura em Computação pela UFRPE.
+Me chamo Isabela Souto, sou desenvolvedora back end júnior, tenho +1 ano de experiência prática com desenvolvimento de software, formada no curso técnico em Desenvolvimento Web e atualmente sou Residente em Robotica e Inteligencia Artifiial no Projeto CIn-Softex da UFPE e sou estudante no 6º período de Licenciatura em Computação pela UFRPE.
 
 Sou apaixonada por tecnologia, adoro aprender coisas novas e estou em transição de carreira após minha formação em Biologia. Estou em busca da minha primeira oportunidade profissional como desenvolvedora júnior!
 
